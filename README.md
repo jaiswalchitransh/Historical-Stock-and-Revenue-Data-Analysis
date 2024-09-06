@@ -1,4 +1,4 @@
-# Analyzing Historical Stock Data and Building a Dashboard
+# Analyzing Historical Stock Data
 
 ## Table of Contents
 - [Project Overview](#project-overview)
