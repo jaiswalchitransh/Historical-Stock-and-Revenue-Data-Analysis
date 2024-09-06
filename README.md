@@ -56,6 +56,20 @@ To run the analysis and visualize the stock data, follow these steps:
 - **Data Visualization**: Displays the relationship between stock prices and company revenue using dual-axis graphs.
 - **Graphing Function**: The `make_graph` function is used to plot historical stock prices and revenue.
 
+## Results
+Below are the visualizations of stock data and revenue for **Tesla** and **GameStop**:
+
+### Tesla Stock Data and Revenue
+![Tesla Stock Price and Revenue](images/tesla_stock_graph.png)
+*Figure 1: Tesla's Stock Price (Blue) and Revenue (Green) Over Time.*
+
+### GameStop Stock Data and Revenue
+![GameStop Stock Price and Revenue](images/gamestop_stock_graph.png)
+*Figure 2: GameStop's Stock Price (Blue) and Revenue (Green) Over Time.*
+
+These graphs display the historical trends in both stock price and revenue for Tesla and GameStop, giving insights into their performance over time.
+
+
 ## Contribution
 I, **[Chitransh Jaiswal](https://www.linkedin.com/in/jaiswalchitransh/)** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
 Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
