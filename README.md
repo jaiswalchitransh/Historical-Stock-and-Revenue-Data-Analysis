@@ -5,7 +5,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Features](#results)
+- [Results](#results)
 - [Contribution](#contribution)
 
 ## Project Overview
