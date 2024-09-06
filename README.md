@@ -17,13 +17,14 @@ The project contains:
 - Graphs for Tesla and GameStop stock data.
 
 ## Installation
-This project requires Python 3.7 or later.
-
-1. Clone or download the repository:
+This project requires Python 3.12.1 or later.
+To set up the project:
+1. Ensure Python 3.12.1 or a later version is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
+2. Clone or download the repository to your local machine.
     
        git clone https://github.com/yourusername/stock-data-visualization.git
   
-2. Install the necessary Python packages:
+3. Install the necessary Python packages:
    
    Required packages:
    - `yfinance`
