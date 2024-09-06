@@ -41,9 +41,7 @@ To run the analysis and visualize the stock data, follow these steps:
 
 1. Open the `analyzer.ipynb` Jupyter Notebook in your preferred environment. You can use Jupyter Notebook or JupyterLab for this purpose.
 
-   ```bash
-   jupyter notebook analyzer.ipynb
-   ```
+       jupyter notebook analyzer.ipynb
 
 2. Run all the cells in the notebook to:
    - Extract Tesla and GameStop stock data from Yahoo Finance using `yfinance`.
@@ -86,4 +84,4 @@ Please ensure your contributions adhere to the coding standards and follow the e
 
 ---
 
-Thank you for exploring the Stock Data Visualization project!
+Thank you for exploring the Analyzing Historical Stock Data project!
