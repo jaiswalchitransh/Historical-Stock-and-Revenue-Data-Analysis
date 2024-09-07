@@ -22,7 +22,7 @@ To set up the project:
 1. Ensure Python 3.12.1 or a later version is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 2. Clone or download the repository to your local machine.
     
-       git clone https://github.com/yourusername/stock-data-visualization.git
+       git clone https://github.com/jaiswalchitransh/Analyzing-Historical-Stock-Data.git
   
 3. Install the necessary Python packages:
    
