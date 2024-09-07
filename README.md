@@ -59,11 +59,11 @@ To run the analysis and visualize the stock data, follow these steps:
 ## Results
 Below are the visualizations of stock data and revenue for **Tesla** and **GameStop**:
 
-### Tesla Stock Data and Revenue
+Tesla Stock Data and Revenue :
 ![Tesla Stock Price and Revenue](https://github.com/jaiswalchitransh/Analyzing-Historical-Stock-Data/blob/main/Sample%20Output/tesla_stock_graph.png)
 *Figure 1: Tesla's Stock Price (Blue) and Revenue (Green) Over Time.*
 
-### GameStop Stock Data and Revenue
+GameStop Stock Data and Revenue :
 ![GameStop Stock Price and Revenue](https://github.com/jaiswalchitransh/Analyzing-Historical-Stock-Data/blob/main/Sample%20Output/gamestop_stock_graph.png)
 *Figure 2: GameStop's Stock Price (Blue) and Revenue (Green) Over Time.*
 
