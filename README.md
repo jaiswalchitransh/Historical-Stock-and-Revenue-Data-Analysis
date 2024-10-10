@@ -86,4 +86,4 @@ Please ensure your contributions adhere to the coding standards and follow the e
 
 ---
 
-Thank you for exploring the Analyzing Historical Stock Data project!
+Thank you for exploring the Historical Stock and Revenue Data Analysis!
