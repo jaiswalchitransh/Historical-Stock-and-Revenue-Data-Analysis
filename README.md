@@ -1,4 +1,4 @@
-# Analyzing Historical Stock Data
+# Historical Stock and Revenue Data Analysis
 
 ## Table of Contents
 - [Project Overview](#project-overview)
