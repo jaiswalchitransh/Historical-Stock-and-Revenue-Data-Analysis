@@ -33,6 +33,8 @@ To set up the project:
    - `beautifulsoup4`
    - `plotly`
    - `matplotlib`
+  
+         pip install yfinance pandas requests beautifulsoup4 plotly matplotlib
 
 4. Open the project in Jupyter Notebook or any Python IDE.
 5. Run the script in your Python environment.
