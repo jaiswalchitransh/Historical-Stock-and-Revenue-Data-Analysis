@@ -34,7 +34,8 @@ To set up the project:
    - `plotly`
    - `matplotlib`
 
-4. Run the script in your Python environment.
+4. Open the project in Jupyter Notebook or any Python IDE.
+5. Run the script in your Python environment.
 
 ## Usage
 To run the analysis and visualize the stock data, follow these steps:
