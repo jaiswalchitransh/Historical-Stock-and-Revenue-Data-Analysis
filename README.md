@@ -109,7 +109,6 @@ The project provides detailed visual insights into the historical stock price an
    - The correlation between stock price and revenue becomes clearer in the long term, with both trends pointing to Tesla’s growth as a leading electric vehicle manufacturer.
    - The sharp increase in both stock price and revenue in recent years demonstrates Tesla's growth and strong financial performance, particularly as the company has become profitable and increased its production capacity.
 
----
 
 ### GameStop Stock Data and Revenue Analysis:
 ![GameStop Stock Price and Revenue](https://github.com/jaiswalchitransh/Analyzing-Historical-Stock-Data/blob/main/Sample%20Output/gamestop_stock_graph.png)
@@ -128,7 +127,6 @@ The project provides detailed visual insights into the historical stock price an
    - The 2021 short squeeze highlights how market events, speculation, and investor sentiment can lead to stock price movements that are disconnected from the company’s financial performance.
    - Post-2021, GameStop’s stock price remains elevated compared to pre-surge levels, but the company’s revenue continues to face challenges, indicating ongoing difficulties in its core business model.
 
----
 
 ### Conclusion
 The comparison between Tesla and GameStop highlights two very different stories:
