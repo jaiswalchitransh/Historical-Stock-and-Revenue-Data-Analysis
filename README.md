@@ -54,10 +54,41 @@ To run the analysis and visualize the stock data, follow these steps:
 3. The notebook will display interactive graphs of Tesla and GameStop stock prices and revenue over time.
 
 ## Features
-- **Stock Data Extraction**: Fetches historical stock data from Yahoo Finance using `yfinance`.
-- **Revenue Data Extraction**: Uses web scraping to extract Tesla and GameStop revenue data from MacroTrends.
-- **Data Visualization**: Displays the relationship between stock prices and company revenue using dual-axis graphs.
-- **Graphing Function**: The `make_graph` function is used to plot historical stock prices and revenue.
+This project offers several powerful features designed to simplify data extraction, analysis, and visualization for stock market insights:
+
+### 1. **Stock Data Extraction (yfinance)**:
+   - The project uses the `yfinance` library to effortlessly pull historical stock price data for Tesla and GameStop. This includes detailed information such as Open, High, Low, Close, Volume, Dividends, and Stock Splits.
+   - The ability to retrieve data over the entire history ("max" period) provides valuable insights into long-term stock performance, making it ideal for detailed financial analyses.
+
+### 2. **Revenue Data Extraction (Web Scraping with BeautifulSoup)**:
+   - Leveraging the `requests` library in combination with `BeautifulSoup`, the project web scrapes quarterly revenue data for Tesla and GameStop from MacroTrends.
+   - The process automatically cleans and formats the extracted data (removing commas, dollar signs, and handling NaN values), ensuring a clean and structured dataset for analysis.
+   - This automated scraping method makes it easy to continuously update the revenue data without manual intervention.
+
+### 3. **Dual-Axis Graphing Function**:
+   - A key feature is the **custom graphing function**, `make_graph`, which allows for dual-axis plotting:
+     - **Primary Axis**: Stock Price (blue) on the left y-axis.
+     - **Secondary Axis**: Revenue (green) on the right y-axis.
+   - By plotting both stock price and revenue on a single graph, it becomes much easier to visualize and interpret the correlation between a company's stock performance and its revenue trends over time.
+   - The function is flexible and reusable, making it simple to apply to other stocks or datasets.
+
+### 4. **Interactive Data Visualization (Plotly & Matplotlib)**:
+   - The project utilizes two powerful visualization libraries: `Plotly` for dynamic, interactive graphs, and `Matplotlib` for static, well-structured visualizations.
+   - **Plotly**: Provides zooming, panning, and tooltips that allow users to explore the data interactively, making it an excellent tool for presenting insights in a dynamic and engaging way.
+   - **Matplotlib**: Offers customizable and static visualizations that can be saved as images or incorporated into reports, making it suitable for documentation and formal analysis.
+
+### 5. **Data Cleaning & Preprocessing**:
+   - Includes preprocessing steps to ensure that both stock and revenue data are formatted correctly and free from inconsistencies (like NaN values or improper formatting).
+   - This preprocessing ensures smooth data integration and helps avoid common errors during analysis, like type mismatches or missing values.
+
+### 6. **Scalability**:
+   - The codebase is designed to be easily extended to other stocks or datasets. Simply modify the ticker symbols or web scraping targets, and the functions will work seamlessly with the new data.
+   - With a few adjustments, the framework can also be adapted to analyze other financial metrics like earnings, profits, or dividends, making it a versatile tool for financial analysis.
+
+### 7. **Well-Documented & Modular Code**:
+   - The project follows a modular structure where functions and code blocks are organized logically. Each component, whether it’s data extraction, cleaning, or visualization, is well-documented with comments explaining the purpose and functionality of each step.
+   - This modularity makes it easier for developers or analysts to contribute, debug, or modify the project without needing to overhaul the entire codebase.
+   - 
 
 ## Results
 Below are the visualizations of stock data and revenue for **Tesla** and **GameStop**:
