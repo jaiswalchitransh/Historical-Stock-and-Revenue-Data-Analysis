@@ -137,7 +137,6 @@ The comparison between Tesla and GameStop highlights two very different stories:
 These visualizations provide a deeper understanding of how stock prices and revenues interact and highlight the importance of considering multiple factors—financial performance, market trends, and investor sentiment—when analyzing stock movements.
 
 
-
 ## Contribution
 I, **[Chitransh Jaiswal](https://www.linkedin.com/in/jaiswalchitransh/)** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
 Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
