@@ -42,7 +42,7 @@ To set up the project:
 ## Usage
 To run the analysis and visualize the stock data, follow these steps:
 
-1. Open the `analyzer.ipynb` Jupyter Notebook in your preferred environment. You can use Jupyter Notebook or JupyterLab for this purpose.
+1. Open the `analyzer.ipynb` in Jupyter Notebook in your preferred environment. You can use Jupyter Notebook or JupyterLab for this purpose.
 
        jupyter notebook analyzer.ipynb
 
