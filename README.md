@@ -88,22 +88,56 @@ This project offers several powerful features designed to simplify data extracti
 ### 7. **Well-Documented & Modular Code**:
    - The project follows a modular structure where functions and code blocks are organized logically. Each component, whether it’s data extraction, cleaning, or visualization, is well-documented with comments explaining the purpose and functionality of each step.
    - This modularity makes it easier for developers or analysts to contribute, debug, or modify the project without needing to overhaul the entire codebase.
-   - 
 
 ## Results
-Below are the visualizations of stock data and revenue for **Tesla** and **GameStop**:
+The project provides detailed visual insights into the historical stock price and revenue trends for **Tesla** and **GameStop**, illustrating how the performance of each company’s stock price correlates with its revenue over time.
 
-Tesla Stock Data and Revenue :
-
+### Tesla Stock Data and Revenue Analysis:
 ![Tesla Stock Price and Revenue](https://github.com/jaiswalchitransh/Analyzing-Historical-Stock-Data/blob/main/Sample%20Output/tesla_stock_graph.png)
 *Figure 1: Tesla's Stock Price (Blue) and Revenue (Green) Over Time.*
 
-GameStop Stock Data and Revenue :
+1. **Stock Price Trend**:
+   - Tesla’s stock price has shown significant volatility over the years but exhibits a generally upward trajectory, particularly from 2020 onwards. This period corresponds with Tesla's rapid growth, expansion in production, and increased market interest in electric vehicles.
+   - A few key inflection points are noticeable, such as rapid surges in stock price in late 2019 and throughout 2020. These surges align with Tesla's achievements, like hitting production milestones, reporting profitable quarters, and joining the S&P 500 index.
 
+2. **Revenue Trend**:
+   - Tesla’s revenue has steadily increased over time, reflecting the company's growing sales of electric vehicles, energy products, and services. The revenue growth has been particularly strong since 2018, with Tesla ramping up production, opening new gigafactories, and expanding its vehicle lineup.
+   - From the visualization, it is clear that while revenue increases steadily, the stock price often moves more dramatically. This highlights that stock market sentiment, investor confidence, and external factors such as market speculation often influence Tesla’s stock price more than revenue growth alone.
+
+3. **Key Observations**:
+   - Despite a steady increase in revenue, Tesla's stock price shows much more fluctuation, indicating that other factors, such as investor sentiment and external market conditions, play a significant role in stock price movements.
+   - The correlation between stock price and revenue becomes clearer in the long term, with both trends pointing to Tesla’s growth as a leading electric vehicle manufacturer.
+   - The sharp increase in both stock price and revenue in recent years demonstrates Tesla's growth and strong financial performance, particularly as the company has become profitable and increased its production capacity.
+
+---
+
+### GameStop Stock Data and Revenue Analysis:
 ![GameStop Stock Price and Revenue](https://github.com/jaiswalchitransh/Analyzing-Historical-Stock-Data/blob/main/Sample%20Output/gamestop_stock_graph.png)
 *Figure 2: GameStop's Stock Price (Blue) and Revenue (Green) Over Time.*
 
-These graphs display the historical trends in both stock price and revenue for Tesla and GameStop, giving insights into their performance over time.
+1. **Stock Price Trend**:
+   - GameStop's stock price shows relatively stable and modest fluctuations until early 2021, when there is an unprecedented spike. This spike was primarily driven by the **GameStop short squeeze event**, where retail investors from Reddit’s WallStreetBets community caused a dramatic increase in the stock price, forcing short-sellers to cover their positions.
+   - After reaching historical highs in early 2021, the stock price gradually declined, though it remains higher than its pre-surge levels.
+
+2. **Revenue Trend**:
+   - In contrast to the stock price, GameStop’s revenue shows a decline over the same period, particularly after 2017. This reflects the company's struggle to compete in the evolving video game retail industry, where digital downloads, online marketplaces, and new business models such as cloud gaming have gained prominence.
+   - The revenue decline is consistent with GameStop’s loss of market share to digital platforms like Steam, PlayStation Store, and Xbox Marketplace, which have reduced the need for physical game sales.
+
+3. **Key Observations**:
+   - The divergence between stock price and revenue is stark. While GameStop's revenue has been declining, its stock price surged dramatically due to external factors like retail investor activity and short interest, rather than fundamental business performance.
+   - The 2021 short squeeze highlights how market events, speculation, and investor sentiment can lead to stock price movements that are disconnected from the company’s financial performance.
+   - Post-2021, GameStop’s stock price remains elevated compared to pre-surge levels, but the company’s revenue continues to face challenges, indicating ongoing difficulties in its core business model.
+
+---
+
+### Conclusion
+The comparison between Tesla and GameStop highlights two very different stories:
+- **Tesla**: The stock price aligns more closely with revenue growth, though it also experiences speculative surges. This is typical for a company in a high-growth industry (electric vehicles) with strong future potential. Tesla’s stock movements are influenced by a combination of financial performance, investor sentiment, and broader market trends like the rise of electric vehicles.
+  
+- **GameStop**: The stock price is largely decoupled from revenue performance, showcasing how market phenomena like the short squeeze can lead to stock price movements that are not tied to the company’s financial fundamentals. GameStop’s stock surge in early 2021 was driven by speculative trading rather than any improvement in its business operations, reflecting a unique case in stock market history.
+
+These visualizations provide a deeper understanding of how stock prices and revenues interact and highlight the importance of considering multiple factors—financial performance, market trends, and investor sentiment—when analyzing stock movements.
+
 
 
 ## Contribution
