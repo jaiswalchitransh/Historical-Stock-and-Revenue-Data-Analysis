@@ -94,6 +94,7 @@ The project provides detailed visual insights into the historical stock price an
 
 ### Tesla Stock Data and Revenue Analysis:
 ![Tesla Stock Price and Revenue](https://github.com/jaiswalchitransh/Analyzing-Historical-Stock-Data/blob/main/Sample%20Output/tesla_stock_graph.png)
+
 *Figure 1: Tesla's Stock Price (Blue) and Revenue (Green) Over Time.*
 
 1. **Stock Price Trend**:
@@ -112,6 +113,7 @@ The project provides detailed visual insights into the historical stock price an
 
 ### GameStop Stock Data and Revenue Analysis:
 ![GameStop Stock Price and Revenue](https://github.com/jaiswalchitransh/Analyzing-Historical-Stock-Data/blob/main/Sample%20Output/gamestop_stock_graph.png)
+
 *Figure 2: GameStop's Stock Price (Blue) and Revenue (Green) Over Time.*
 
 1. **Stock Price Trend**:
