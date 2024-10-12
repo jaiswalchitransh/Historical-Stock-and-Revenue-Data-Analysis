@@ -134,7 +134,7 @@ The comparison between Tesla and GameStop highlights two very different stories:
   
 - **GameStop**: The stock price is largely decoupled from revenue performance, showcasing how market phenomena like the short squeeze can lead to stock price movements that are not tied to the company’s financial fundamentals. GameStop’s stock surge in early 2021 was driven by speculative trading rather than any improvement in its business operations, reflecting a unique case in stock market history.
 
-These visualizations provide a deeper understanding of how stock prices and revenues interact and highlight the importance of considering multiple factors—financial performance, market trends, and investor sentiment—when analyzing stock movements.
+These visualizations provide a deeper understanding of how stock prices and revenues interact and highlight the importance of considering multiple factors—financial performance, market trends, and investor sentiment, when analyzing stock movements.
 
 
 ## Contribution
