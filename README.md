@@ -40,7 +40,7 @@ To set up the project:
 5. Run the script in your Python environment.
 
 ## Usage
-To run the analysis and visualize the stock data, follow these steps:
+To run the analysis and visualize the stock and revenue data, follow these steps:
 
 1. Open the `analyzer.ipynb` Jupyter Notebook in your preferred environment. You can use Jupyter Notebook or JupyterLab for this purpose.
 
